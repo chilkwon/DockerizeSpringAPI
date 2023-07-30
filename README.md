@@ -2,6 +2,11 @@
 create spring project using spring.io
   1. select Java 17
   2. Select Maven
+   
+[Project Structure] 
+****
+
+![img_10.png](img_10.png)
 
 Create simple userservice application
   - create packages
